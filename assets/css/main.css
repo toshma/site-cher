@@ -1576,6 +1576,13 @@
 			width: 100%;
 			margin: 0 0 2.5em 0;
 		}
+        .icons.featured {
+            display: block;
+			width: 100%;
+            font-size: 18em;
+            text-align: center;
+			margin: 0 0 1 0;
+        }
 
 		.image.left {
 			float: left;
@@ -1740,6 +1747,10 @@
 
 			.box.feature .inner {
 				padding: 4em 2em 3em 2em;
+			}
+.box.feature .inner-icons {
+				padding: 4em 2em 3em 2em;
+    text-align: center;
 			}
 
 			.box.feature h2 {
